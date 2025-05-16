@@ -77,7 +77,6 @@ This project reinforced key NLP principles — including how much preprocessing 
 ## 🖼️ Preview
 
 ![Project Preview](./assignment/outputs/text_classification_visualization.png)  
-*(Replace this path with your real image location)*
 
 ---
 
