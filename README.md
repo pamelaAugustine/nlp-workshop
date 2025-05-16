@@ -39,19 +39,6 @@ This project applies natural language processing techniques to build a **multi-c
 
 ---
 
-## 📊 Sample Results
-
-| Metric     | Score |
-|------------|-------|
-| Accuracy   | 92%   |
-| F1-Score   | 0.91  |
-| Precision  | 0.90  |
-| Recall     | 0.91  |
-
-*(Note: These are placeholder values — update with real metrics)*
-
----
-
 ## 🧪 Dataset Details
 
 - 20 topics across domains like sports, religion, tech, politics, etc.
@@ -71,6 +58,8 @@ assignment/
 │   ├── preprocess.py
 │   ├── train_model.py
 │   ├── evaluate.py
+├── outputs/
+│   ├── classification_report.csv
 ├── requirements.txt
 ├── environment.yml
 ├── setup.sh
@@ -87,7 +76,7 @@ This project reinforced key NLP principles — including how much preprocessing 
 
 ## 🖼️ Preview
 
-![Project Preview](./assignment/outputs/nlp-classifier-visual.png)  
+![Project Preview](./assignment/outputs/text_classification_visualization.png)  
 *(Replace this path with your real image location)*
 
 ---
